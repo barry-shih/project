@@ -69,8 +69,6 @@ AIoT Cloud - AIC Opc Ua IoT horizontal cloud connection development software | A
 
 OPC UA 設備出現 Node 對應、資料值或品質狀態異常，造成設備資訊與產線狀態不一致。AI 協助分析、建立事件紀錄及標準處理流程。
 
-Sales & Marketing Alignment Done Right: Key Tactics
-
 情境 C｜事件轉化成產品改善專案
 
 當資安團隊發現重複性問題，AI 搜尋歷史案例、分析共通風險，提出改善候選項目，接著產生需求整理、工時估算、WBS、MVP 建議，並進入 PM Approve、工程審核、開發、QA 與發布。

@@ -59,8 +59,6 @@ AI 驅動的智慧工業物聯網與企業工廠管理平台
 
 我會安排三個展示案例：
 
-Tecnalia
-
 情境 A｜工業設備資料異常與資安事件
 
 Modbus 設備傳入異常數值，同時 SIEM 出現可疑來源 IP，MES 也出現生產資料不一致。AI 協助整合資料、比對證據、分析風險與提出處理建議。
@@ -135,10 +133,6 @@ Sales & Marketing Alignment Done Right: Key Tactics
 ## 6. 產品長期發展願景
 
 初期以工業物聯網資安與 AI 流程自動化為主要切入點，但 FactoryTwin AI 的長期應用範圍可以更大。
-
-Roboty przemysłowe: Cyfrowa produkcja – od czego zacząć projektowanie? | Zrobotyzowany.pl
-
-zrobotyzowany.pl
 
 未來可擴展至：
 
